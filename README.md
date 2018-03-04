@@ -18,3 +18,5 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0170 |  | | Python  | Java |
 | | | | | | |
+| 0343 |  [Integer Break](https://leetcode.com/problems/integer-break/description/)| | Python 递归记忆化搜索 8.4% | Java |
+| | | | | | |
