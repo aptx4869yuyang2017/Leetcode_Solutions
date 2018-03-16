@@ -26,8 +26,7 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0343 |  [Integer- Break](https://leetcode.com/problems/integer-break/description/)| | Python 递归记忆化搜索 8.4%  动态规划 45ms 17.28%| Java | Medium |
 | | | | | | |
-| 0349|  [Intersection-of-Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/#) | | Python set() | Java TreeSet 11ms
-7.7% | Easy |
+| 0349|  [Intersection-of-Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/#) | | Python set() | Java TreeSet 11ms7.7% | Easy |
 | | | | | | |
 | 0445 |  [assign-cookies](https://leetcode.com/problems/assign-cookies/description/) | | Python 贪心算法 84ms 77.94%  | Java  贪心算法 21ms 18.55%| Easy |
 
