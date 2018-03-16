@@ -29,6 +29,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | 0349|  [Intersection-of-Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/#) | | Python set() | Java TreeSet 11ms7.7% | Easy |
 | | | | | | |
 | 0445 |  [assign-cookies](https://leetcode.com/problems/assign-cookies/description/) | | Python 贪心算法 84ms 77.94%  | Java  贪心算法 21ms 18.55%| Easy |
-
 | | | | | | |
+| 0000 |  0-1 背包问题 动态规划的典型二维问题 | | Python  | Java 记忆化搜索 动态规划|  |
+
+
 | 0000 |  []() | | Python  | Java | Easy/Medium/Hard |
