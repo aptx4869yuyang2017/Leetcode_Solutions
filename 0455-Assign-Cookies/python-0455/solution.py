@@ -1,8 +1,8 @@
 class Solution(object):
     def findContentChildren(self, g, s):
         """
-        :type g: List[int]
-        :type s: List[int]
+        :type g: List[int] children
+        :type s: List[int] Cookies
         :rtype: int
         """
         g.sort()
@@ -26,4 +26,3 @@ if __name__ == '__main__':
     a = [1, 2]
     b = [1, 2, 3]
     print solution.findContentChildren(a, b)
-

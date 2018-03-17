@@ -9,6 +9,9 @@ import java.util.Arrays;
 class Solution2 {
     public int findContentChildren(int[] g, int[] s) {
 
+        // g children
+        // s cookies
+
         Arrays.sort(g);
         Arrays.sort(s);
 

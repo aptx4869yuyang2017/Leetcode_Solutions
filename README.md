@@ -27,10 +27,11 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | 0343 |  [Integer- Break](https://leetcode.com/problems/integer-break/description/)| | Python 递归记忆化搜索 8.4%  动态规划 45ms 17.28%| Java | Medium |
 | | | | | | |
 | 0349|  [Intersection-of-Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/#) | | Python set() | Java TreeSet 11ms7.7% | Easy |
+| | | | | |
+| 0416 |  [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | | Python  | Java 1:42完成 动态规划解法 31ms 60% | Medium |
 | | | | | | |
 | 0445 |  [assign-cookies](https://leetcode.com/problems/assign-cookies/description/) | | Python 贪心算法 84ms 77.94%  | Java  贪心算法 21ms 18.55%| Easy |
 | | | | | | |
 | 0000 |  0-1 背包问题 动态规划的典型二维问题 | | Python  | Java 记忆化搜索 动态规划|  |
-
-
+| | | | | |
 | 0000 |  []() | | Python  | Java | Easy/Medium/Hard |
