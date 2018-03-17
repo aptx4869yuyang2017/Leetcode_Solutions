@@ -15,6 +15,9 @@ Thumbs.db
 # Java Ignore files #
 #####################
 *.class
+*.out
+*.idea/*
+*.idea
 
 #####################
 # C++ Ignore files #
