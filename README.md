@@ -28,6 +28,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0349|  [Intersection-of-Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/#) | | Python set() | Java TreeSet 11ms7.7% | Easy |
 | | | | | |
+| 0350 |  [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | | Python dict 93% | Java TreeMap 20%| Easy/Medium/Hard |
+| | | | | |
 | 0416 |  [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | | Python 动态规划 800ms 69%  | Java 1:42完成 动态规划解法 31ms 60% | Medium |
 | | | | | |
 | 0435 |  [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | | Python  | Java 动态规划 202ms 1.35% 贪心算法 10ms 70% | Medium |
