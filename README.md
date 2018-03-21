@@ -20,6 +20,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0198 |  [House-Robber](https://leetcode.com/problems/house-robber/description/) | | Python  | Java 动态规划 0ms 100%| Easy |
 | | | | | | |
+| 0242 |  [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://leetcode.com/problems/valid-anagram/solution/)| Python  | Java 40min 用HashMap 完成解法 46ms 12.75%  用int[26]只要用4ms 94% | Easy |
+| | | | | | |
 | 0279 | [perfect-squares](https://leetcode.com/problems/perfect-squares) | | Python  | Java | Medium|
 | | | | | | |
 | 0293 |  [Is-subsequence](https://leetcode.com/problems/is-subsequence/description/) | | Python s | Java 贪心算法 指针向前滚  51ms 34.54% | Medium |
