@@ -11,6 +11,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | ID | Problem | Official<br/>Solution | Python | Java | Difficulty |
 | --- | --- | :---: | :--- | :--- | :---: |
 | 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |python 滑动窗口实现 102ms 54.4%  | Java 滑动窗口 43ms 92.2%  |Medium |
+| | | | | |
+| 0015 |  [3Sum](https://leetcode.com/problems/3sum/description/) | | Python  | Java map计数-排序-判断 查表法 193ms 11% O(n^2) 2h做题 | Medium |
 | | | | | | |
 | 0064 |  | | Python 动态规划 64ms  | | |
 | | | | | | |
