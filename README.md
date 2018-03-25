@@ -41,6 +41,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | 0435 |  [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | | Python  | Java 动态规划 202ms 1.35% 贪心算法 10ms 70% | Medium |
 | | | | | | |
 | 0445 |  [assign-cookies](https://leetcode.com/problems/assign-cookies/description/) | | Python 贪心算法 84ms 77.94%  | Java  贪心算法 21ms 18.55%| Easy |
+| | | | | |
+| 0454 |  [Sum4 II](https://leetcode.com/problems/4sum-ii/description/) | | Python  | Java 查表 204ms 28% O(n^2) | Easy/Medium/Hard |
 | | | | | | |
 | 0000 |  0-1 背包问题 动态规划的典型二维问题 | | Python  | Java 记忆化搜索 动态规划|  |
 | | | | | |
