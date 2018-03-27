@@ -25,6 +25,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | 0198 |  [House-Robber](https://leetcode.com/problems/house-robber/description/) | | Python  | Java 动态规划 0ms 100%| Easy |
 | | | | | |
 | 0202 |  [Happy Number](https://leetcode.com/problems/happy-number/description/) | | Python  | Java HashSet 做记录 6ms 29% | Easy |
+| | | | | |
+| 0206 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | | Python  | Java 0ms 100% | Easy |
 | | | | | | |
 | 0242 |  [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://leetcode.com/problems/valid-anagram/solution/)| Python  | Java 40min 用HashMap 完成解法 46ms 12.75%  用int[26]只要用4ms 94% | Easy |
 | | | | | | |
