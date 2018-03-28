@@ -31,7 +31,7 @@ class Solution {
 
         ListNode cur = head;
 
-        while (cur.next != null){
+        while (cur != null){
 
             ListNode temp = cur.next;
             cur.next = pre;
@@ -45,32 +45,15 @@ class Solution {
 
     }
 
-    //public void printLinkList(ListNode head){
-    //
-    //    ListNode p = head;
-    //
-    //    while (p.next != null){
-    //        System.out.println(p.val + "->");
-    //        p = p.next;
-    //    }
-    //}
-    //
-    //public ListNode creatLinkList(int[] nums){
-    //
-    //    ListNode head = new ListNode(nums[0]);
-    //    ListNode p;
-    //    head.next = p;
-    //    ListNode pre;
-    //
-    //    for (int i = 1; i < nums.length; i++) {
-    //        p.val = nums[i];
-    //
-    //    }
-    //}
-    //
-    //public static void main(String[] args) {
-    //
-    //}
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{1, 2, 3};
+        ListNode node = new ListNode(nums);
+        System.out.println(node);
+        ListNode newNode = (new Solution()).reverseList(node);
+        System.out.println(newNode);
+    }
+
 }
 
 
