@@ -19,6 +19,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | 0064 |  | | Python 动态规划 64ms  | | |
 | | | | | | |
 | 0070 |  | | Python  | | |
+| | | | | |
+| 0092 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | Python  | Java 4ms 80% | Medium |
 | | | | | | |
 | 0170 |  | | Python  | Java | |
 | | | | | | |
