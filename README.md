@@ -20,6 +20,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0070 |  | | Python  | | |
 | | | | | |
+| 0083 |  [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | | Python  | Java 1ms 100% | Easy/Medium/Hard |
+| | | | | |
 | 0092 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | Python  | Java 4ms 80% | Medium |
 | | | | | | |
 | 0170 |  | | Python  | Java | |
