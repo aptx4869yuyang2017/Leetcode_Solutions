@@ -40,6 +40,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0293 |  [Is-subsequence](https://leetcode.com/problems/is-subsequence/description/) | | Python s | Java 贪心算法 指针向前滚  51ms 34.54% | Medium |
 | | | | | | |
+| 0328 |  [Odd-Even-Linked-List](https://leetcode.com/problems/odd-even-linked-list/description/)| | Python | Java 1ms 80%| Medium |
+| | | | | | |
 | 0343 |  [Integer- Break](https://leetcode.com/problems/integer-break/description/)| | Python 递归记忆化搜索 8.4%  动态规划 45ms 17.28%| Java | Medium |
 | | | | | | |
 | 0349|  [Intersection-of-Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/#) | | Python set() | Java TreeSet 11ms7.7% | Easy |
