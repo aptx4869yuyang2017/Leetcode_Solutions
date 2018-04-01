@@ -10,11 +10,13 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 
 | ID | Problem | Official<br/>Solution | Python | Java | Difficulty |
 | --- | --- | :---: | :--- | :--- | :---: |
-| 002 | [Add Two Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/add-two-numbers/solution/) |python  | Java  53ms 84.97% 可以利用三元运算操作，解决特殊处理状态较多的问题，空了就补零 |Medium |
+| 0002 | [Add Two Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/add-two-numbers/solution/) |python  | Java  53ms 84.97% 可以利用三元运算操作，解决特殊处理状态较多的问题，空了就补零 |Medium |
 | | | | | |
-| 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/add-two-numbers/description/) |[solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |python 滑动窗口实现 102ms 54.4%  | Java 滑动窗口 43ms 92.2%  |Medium |
+| 0003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/add-two-numbers/description/) |[solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |python 滑动窗口实现 102ms 54.4%  | Java 滑动窗口 43ms 92.2%  |Medium |
 | | | | | |
 | 0015 |  [3Sum](https://leetcode.com/problems/3sum/description/) | | Python  | Java map计数-排序-判断 查表法 193ms 11% O(n^2) 2h做题 | Medium |
+| | | | | |
+| 0024 |  [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | | Python  | Java 设定四个指针，操作指针就很清楚了 注意边界判断条件 5ms 74.4ms | Medium |
 | | | | | |
 | 0049 |  [Group Anagram](https://leetcode.com/problems/group-anagrams/description/) | | Python  | Java HashMap O(n) 29ms 54% | Medium |
 | | | | | | |
