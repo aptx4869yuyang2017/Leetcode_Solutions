@@ -10,7 +10,9 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 
 | ID | Problem | Official<br/>Solution | Python | Java | Difficulty |
 | --- | --- | :---: | :--- | :--- | :---: |
-| 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |python 滑动窗口实现 102ms 54.4%  | Java 滑动窗口 43ms 92.2%  |Medium |
+| 002 | [Add Two Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/add-two-numbers/solution/) |python 滑动窗口实现 102ms 54.4%  | Java  53ms 84.97% 可以利用三元运算操作，解决特殊处理状态较多的问题，空了就补零 |Medium |
+| | | | | |
+| 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/add-two-numbers/description/) |[solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |python 滑动窗口实现 102ms 54.4%  | Java 滑动窗口 43ms 92.2%  |Medium |
 | | | | | |
 | 0015 |  [3Sum](https://leetcode.com/problems/3sum/description/) | | Python  | Java map计数-排序-判断 查表法 193ms 11% O(n^2) 2h做题 | Medium |
 | | | | | |
@@ -52,7 +54,7 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | |
 | 0435 |  [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | | Python  | Java 动态规划 202ms 1.35% 贪心算法 10ms 70% | Medium |
 | | | | | | |
-| 0445 |  [assign-cookies](https://leetcode.com/problems/assign-cookies/description/) | | Python 贪心算法 84ms 77.94%  | Java  贪心算法 21ms 18.55%| Easy |
+| 0445 |  [Add Two NumberII](https://leetcode.com/problems/add-two-numbers-ii/description//) | | Python  | Java  进阶难度的不翻转链表，用递归的方式计算进位情况 67ms 56.14%  大概做了两天一共估计有3个小时，重点还是在定义 shift的状态，做好memo的定义及记录| Medium |
 | | | | | |
 | 0454 |  [Sum4 II](https://leetcode.com/problems/4sum-ii/description/) | | Python  | Java 查表 204ms 28% O(n^2) | Easy/Medium/Hard |
 | | | | | | |
