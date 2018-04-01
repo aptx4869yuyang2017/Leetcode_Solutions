@@ -10,7 +10,7 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 
 | ID | Problem | Official<br/>Solution | Python | Java | Difficulty |
 | --- | --- | :---: | :--- | :--- | :---: |
-| 002 | [Add Two Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/add-two-numbers/solution/) |python 滑动窗口实现 102ms 54.4%  | Java  53ms 84.97% 可以利用三元运算操作，解决特殊处理状态较多的问题，空了就补零 |Medium |
+| 002 | [Add Two Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[solution](https://leetcode.com/problems/add-two-numbers/solution/) |python  | Java  53ms 84.97% 可以利用三元运算操作，解决特殊处理状态较多的问题，空了就补零 |Medium |
 | | | | | |
 | 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/add-two-numbers/description/) |[solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |python 滑动窗口实现 102ms 54.4%  | Java 滑动窗口 43ms 92.2%  |Medium |
 | | | | | |
