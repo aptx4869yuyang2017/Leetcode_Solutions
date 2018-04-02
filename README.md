@@ -16,7 +16,9 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | |
 | 0015 |  [3Sum](https://leetcode.com/problems/3sum/description/) | | Python  | Java map计数-排序-判断 查表法 193ms 11% O(n^2) 2h做题 | Medium |
 | | | | | |
-| 0024 |  [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | | Python  | Java 设定四个指针，操作指针就很清楚了 注意边界判断条件 5ms 74.4ms | Medium |
+| 0020 |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | | Python  | Java 11ms 50%  | Easy |
+| | | | | |
+| 0024 |  [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | | Python  | Java 设定四个指针，操作指针就很清楚了 注意边界判断条件 20min 5ms 74.4ms | Medium |
 | | | | | |
 | 0049 |  [Group Anagram](https://leetcode.com/problems/group-anagrams/description/) | | Python  | Java HashMap O(n) 29ms 54% | Medium |
 | | | | | | |
@@ -30,6 +32,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | |
 | 0092 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | Python  | Java 4ms 80% | Medium |
 | | | | | | |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | | Python  | Java 学习了一个 Switch case default 的操作方式，注意优化 if else 的层级关系 13ms 83  排名第一的版本是一个递归调用的 存了一份| |
+| | | | | | |
 | 0170 |  | | Python  | Java | |
 | | | | | | |
 | 0198 |  [House-Robber](https://leetcode.com/problems/house-robber/description/) | | Python  | Java 动态规划 0ms 100%| Easy |
@@ -37,6 +41,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | 0202 |  [Happy Number](https://leetcode.com/problems/happy-number/description/) | | Python  | Java HashSet 做记录 6ms 29% | Easy |
 | | | | | |
 | 0206 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | | Python  | Java 0ms 100% | Easy |
+| | | | | | |
+| 0237 |  [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/)| Python  | Java 1ms 100% | Easy |
 | | | | | | |
 | 0242 |  [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://leetcode.com/problems/valid-anagram/solution/)| Python  | Java 40min 用HashMap 完成解法 46ms 12.75%  用int[26]只要用4ms 94% | Easy |
 | | | | | | |
