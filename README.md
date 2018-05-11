@@ -34,6 +34,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | | |
 | 0104 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | | Python  | Java 递归调用 1ms | |
 | | | | | | |
+| 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | | Python  | Java 由于返回0导致计算层数增加，问题没做完 | |
+| | | | | | |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | | Python  | Java 学习了一个 Switch case default 的操作方式，注意优化 if else 的层级关系 13ms 83  排名第一的版本是一个递归调用的 存了一份| |
 | | | | | | |
 | 0170 |  | | Python  | Java | |
