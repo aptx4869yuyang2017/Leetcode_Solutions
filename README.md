@@ -32,6 +32,8 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | |
 | 0092 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | Python  | Java 4ms 80% | Medium |
 | | | | | | |
+| 0100 |  [Same Tree List](https://leetcode.com/problems/same-tree/description/) | | Python  | Java 递归法，迭代法 stack辅助数据结构  | easy |
+| | | | | | |
 | 0104 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | | Python  | Java 递归调用 1ms | |
 | | | | | | |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | | Python  | Java 由于返回0导致计算层数增加，问题没做完 | |
