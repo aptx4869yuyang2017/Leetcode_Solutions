@@ -46,9 +46,11 @@ email: [aptx4869yuyang2017@gmail.com](mailto:aptx4869yuyang2017@gmail.com)
 | | | | | |
 | 0206 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | | Python  | Java 0ms 100% | Easy |
 | | | | | | |
-| 0237 |  [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/)| Python  | Java 1ms 100% | Easy |
+| 0226 |  [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Python  | Java 递归方法， 迭代方法： 队列数据结构的使用 单次迭代对树形结构和队列的维护 | Easy |
 | | | | | | |
-| 0242 |  [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://leetcode.com/problems/valid-anagram/solution/)| Python  | Java 40min 用HashMap 完成解法 46ms 12.75%  用int[26]只要用4ms 94% | Easy |
+| 0237 |  [Delete node in a linked list](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/)| Python  | Java 1ms 100% | Easy |
+| | | | | | |
+| 0242 |  [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://leetcode.com/problems/invert-binary-tree/solution/)| Python  | Java  | Easy |
 | | | | | | |
 | 0279 | [perfect-squares](https://leetcode.com/problems/perfect-squares) | | Python  | Java | Medium|
 | | | | | | |
